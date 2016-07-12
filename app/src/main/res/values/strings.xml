@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">UdacitySunshine</string>
+    <string name="app_name">Sunshine</string>
+
+    <string name="hello_world">Hello Sunshine!</string>
 </resources>
