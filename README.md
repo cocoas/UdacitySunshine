@@ -1,2 +1,2 @@
 # UdacitySunshine
-## UdacitySunshine是Udacity中级Android培训项目的随堂联系项目
+## UdacitySunshine是Udacity中级Android培训项目的随堂练习项目
